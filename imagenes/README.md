@@ -1,1 +1,1 @@
-**Imagenes presentadas:** Se adjunatn algunas imagenes representativas del trabajo realizado
+**Imagenes presentadas:** Se adjuntan algunas imágenes representativas del trabajo realizado
