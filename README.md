@@ -1,7 +1,8 @@
 
 # 🎼Minería de datos - Canciones Spotify 🎼
 
-El presente proyecto realiza el trabajo de limpieza de datos, análisis exploratorio, propuesta de desarrollo y la implementación de un modelo de aprendizaje no supervisado para recopilar información destacable del dataset de canciones de Spotify y Youtube.
+El presente proyecto realiza el trabajo de limpieza de datos, análisis exploratorio, propuesta de desarrollo y la implementación de un modelo de aprendizaje no supervisado para recopilar información destacable del dataset de canciones de Spotify y Youtube. <br>
+📝**Todo el proceso con detalle está presente en el archivo PDF de "Proyecto minería de datos.pdf"** 📝
 
 
 ## Tecnología usada y procesos implementados
